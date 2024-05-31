@@ -1,2 +1,2 @@
 # 2D-Side-Scrolling-Game
-Final Exam Object Oriented Programming
+Midterm Exam Object Oriented Programming
